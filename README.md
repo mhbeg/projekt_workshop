@@ -4,3 +4,4 @@
 
 **RUC WORKSHOP**
 
+Idag lærer vi at bruge github
